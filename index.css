@@ -5,7 +5,7 @@
   --dark-blue: hsl(233, 47%, 7%);
   --desaturated-blue: hsl(244, 38%, 16%);
   --soft-violet: hsl(277, 64%, 61%);
-  --transp-soft-violet: hsla(277, 80%, 35%, 0.6);
+  --transp-soft-violet: hsla(277, 80%, 35%, 0.5);
   --white: hsl(0, 0%, 100%);
   --main-transp-white: hsla(0, 0%, 100%, 0.75);
   --headings-transp-white: hsla(0, 0%, 100%, 0.6);
@@ -58,7 +58,8 @@ h2 {
 }
 img {
   border-radius: 0 var(--border-radius) var(--border-radius) 0;
-  object-fit: cover;
+  display: block;
+  width: 100%;
 }
 .img-overlay {
   position: relative;
