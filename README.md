@@ -10,12 +10,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](images\desktop view.png)
-![Mobile](images\mobile view.png)
+![Desktop](./images/desktop view.png)
+![Mobile](./images/mobile view.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://aminakova.github.io/stats-preview-card/)
 
 ### Built with
 
