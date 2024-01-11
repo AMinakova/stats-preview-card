@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](images/desktop view.png)
-![Mobile](images/mobile view.png)
+![Desktop](./images/desktop-view.png)
+![Mobile](./images/mobile-view.png)
 
 ### Links
 
